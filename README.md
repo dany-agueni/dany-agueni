@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dany AGUENI</h1>
+<h1 align="center">Bonjour je suis Dany AGUENI</h1>
 <h3 align="center">Étudiant à La Plateforme, j'ai 18 ans et passioné de l'informtique</h3>
 
 - j'ai fait plusieurs projets comme **Virtualisation sur Linux, un morpion avce un robot sur python, créer un site internet avec une page d'accueil qui réunit tous les sites**
